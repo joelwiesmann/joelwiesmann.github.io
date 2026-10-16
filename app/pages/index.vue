@@ -34,7 +34,7 @@
                     <br />
                     - Joel<br />
                     <br />
-                    <NuxtLink href="https://www.linkedin.com/in/joel-wiesmann/" target="_blank">
+                    <NuxtLink href="www.linkedin.com/in/jwiesmann" target="_blank">
                         <i class="fab fa-linkedin fa-2x"></i>
                     </NuxtLink>
                 </div>
